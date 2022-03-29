@@ -2,7 +2,7 @@ package arraysFirstclass;
 
 import java.util.Scanner;
 
-public class additionarrays {
+public class Additionarrays {
 
 	public static void main(String[] args) {
 		
